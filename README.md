@@ -9,3 +9,27 @@
              Este repositório contém dotfiles pessoais de TiagoWinehouse
 ```
 
+# dotfiles 
+
+## Aplicações
+
+Lista de script.
+
+<table>
+    <thead>
+        <tr>
+            <td>Aplicação</td>
+            <td>Script</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Qt</td>
+            <td>
+<pre>
+</pre>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
