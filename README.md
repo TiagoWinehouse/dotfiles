@@ -6,6 +6,6 @@
                   \____ |\____/|__|  |__|  |__|____/\___  >____  >
                        \/                               \/     \/
 
-            :tm: Este repositório contém dotfiles pessoais de TiagoWinehouse
+             Este repositório contém dotfiles pessoais de TiagoWinehouse
 ```
 
