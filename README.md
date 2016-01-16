@@ -24,7 +24,7 @@ Lista de script.
     </thead>
     <tbody>
         <tr>
-            <td>Qt</td>
+            <td>Nodejs</td>
             <td>
 <pre>
 </pre>
