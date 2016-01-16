@@ -1,3 +1,4 @@
+
 ```
                       .___      __    _____.__.__
                     __| _/_____/  |__/ ____\__|  |   ____   ______
@@ -9,12 +10,9 @@
              Este repositório contém dotfiles pessoais de TiagoWinehouse
 ```
 
-# dotfiles 
-
+# dotfiles
 ## Aplicações
-
 Lista de script.
-
 <table>
     <thead>
         <tr>
@@ -27,9 +25,9 @@ Lista de script.
             <td>Nodejs</td>
             <td>
 <pre>
+curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/node.sh | sh
 </pre>
             </td>
         </tr>
     </tbody>
 </table>
-
