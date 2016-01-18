@@ -29,5 +29,13 @@ curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/node.
 </pre>
             </td>
         </tr>
+        <tr>
+            <td>Java</td>
+            <td>
+<pre>
+curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/java.sh | sh
+</pre>
+            </td>
+        </tr>
     </tbody>
 </table>
