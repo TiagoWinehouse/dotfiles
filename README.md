@@ -36,6 +36,13 @@ curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/node.
 curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/java.sh | sh
 </pre>
             </td>
-        </tr>
+        </tr>  <tr>
+              <td>Mongodb</td>
+              <td>
+  <pre>
+  curl https://raw.githubusercontent.com/TiagoWinehouse/dotfiles/master/apps/mongodb.sh | sh
+  </pre>
+              </td>
+          </tr>
     </tbody>
 </table>
