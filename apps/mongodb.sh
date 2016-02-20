@@ -6,3 +6,4 @@ echo "> Atualizazndo o gerenciador de pacotes ..."
 sudo apt-get update
 echo "> Instalando o Mongodb ..."
 sudo apt-get install -y mongodb-org
+echo "> Finalizado ..."
